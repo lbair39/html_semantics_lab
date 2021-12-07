@@ -1,0 +1,36 @@
+body {
+    background-color: #AEA2E4;
+    color: #675C96;
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    font-size: 50px;
+    border: 5px solid #675C96;
+    border-radius: 15px;
+    background-color:#E3CBB8;
+    padding: 20px;
+    text-align: center;
+    margin: 30px;
+}
+target {
+    background-color:#E3CBB8;
+    border: 5px solid #675C96;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+section {
+    background-color:#E3CBB8;
+    border-radius: 20px;
+    padding: 10px;
+    width: 600px;
+    display: inline-block;
+    border: 5px solid #675C96;
+    margin: 40px;
+    height: 400px;
+    font-size: 20px;
+}
